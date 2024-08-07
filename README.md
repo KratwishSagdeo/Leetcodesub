@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0035-search-insert-position) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0035-search-insert-position) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0882-peak-index-in-a-mountain-array) |
 ## String
 |  |
 | ------- |
