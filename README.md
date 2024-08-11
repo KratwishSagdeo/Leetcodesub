@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -19,4 +20,8 @@
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
