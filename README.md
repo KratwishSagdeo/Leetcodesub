@@ -29,4 +29,16 @@
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0890-lemonade-change) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
