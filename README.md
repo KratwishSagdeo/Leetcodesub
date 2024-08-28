@@ -36,6 +36,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
