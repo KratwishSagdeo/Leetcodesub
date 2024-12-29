@@ -54,4 +54,12 @@
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2292-counting-words-with-a-given-prefix) |
+## Math
+|  |
+| ------- |
+| [3625-stone-removal-game](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3625-stone-removal-game) |
+## Simulation
+|  |
+| ------- |
+| [3625-stone-removal-game](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3625-stone-removal-game) |
 <!---LeetCode Topics End-->
