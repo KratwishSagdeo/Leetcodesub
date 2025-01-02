@@ -6,6 +6,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0217-contains-duplicate) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0890-lemonade-change) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0217-contains-duplicate) |
 | [2756-buy-two-chocolates](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2756-buy-two-chocolates) |
 ## Bit Manipulation
 |  |
