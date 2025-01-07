@@ -12,6 +12,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2756-buy-two-chocolates](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2756-buy-two-chocolates) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0217-contains-duplicate) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-stone-removal-game](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3625-stone-removal-game) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
