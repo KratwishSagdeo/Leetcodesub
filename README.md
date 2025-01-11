@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3396-valid-word](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3396-valid-word) |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3676-smallest-number-with-all-set-bits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
