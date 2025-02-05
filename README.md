@@ -28,6 +28,7 @@
 | [0013-roman-to-integer](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0013-roman-to-integer) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3396-valid-word](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3396-valid-word) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -55,6 +56,7 @@
 | [0141-linked-list-cycle](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
 |  |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
