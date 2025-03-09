@@ -17,6 +17,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2756-buy-two-chocolates](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2756-buy-two-chocolates) |
+| [3483-alternating-groups-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3483-alternating-groups-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Sliding Window
+|  |
+| ------- |
+| [3483-alternating-groups-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
