@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0392-is-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -80,6 +81,7 @@
 | [0013-roman-to-integer](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0940-fruit-into-baskets) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -128,6 +130,7 @@
 | [0075-sort-colors](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [2756-buy-two-chocolates](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2756-buy-two-chocolates) |
 ## Bit Manipulation
