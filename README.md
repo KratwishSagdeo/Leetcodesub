@@ -115,6 +115,7 @@
 | [0007-reverse-integer](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
+| [2238-a-number-after-a-double-reversal](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2238-a-number-after-a-double-reversal) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
