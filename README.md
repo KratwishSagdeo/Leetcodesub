@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0088-merge-sorted-array) |
@@ -62,12 +63,14 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3447-clear-digits](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0392-is-subsequence) |
@@ -104,6 +107,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0125-valid-palindrome) |
@@ -112,6 +116,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
 |  |
