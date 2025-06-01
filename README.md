@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0242-valid-anagram) |
@@ -63,6 +64,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
