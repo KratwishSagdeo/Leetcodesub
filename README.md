@@ -66,6 +66,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0155-min-stack) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3447-clear-digits](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3447-clear-digits) |
@@ -192,4 +193,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0036-valid-sudoku) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
