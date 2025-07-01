@@ -63,6 +63,7 @@
 | [3396-valid-word](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3447-clear-digits) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3617-find-the-original-typed-string-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
