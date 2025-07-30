@@ -72,6 +72,7 @@
 | [0155-min-stack](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0155-min-stack) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3447-clear-digits](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
@@ -115,6 +116,7 @@
 | [0141-linked-list-cycle](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0206-reverse-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0013-roman-to-integer](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2238-a-number-after-a-double-reversal) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
