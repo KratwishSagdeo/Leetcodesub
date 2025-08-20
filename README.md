@@ -116,6 +116,7 @@
 | [0141-linked-list-cycle](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0328-odd-even-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
