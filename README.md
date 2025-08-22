@@ -24,6 +24,7 @@
 | [0940-fruit-into-baskets](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0940-fruit-into-baskets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1046-max-consecutive-ones-iii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1072-next-greater-node-in-linked-list) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -70,6 +71,7 @@
 | [0020-valid-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0155-min-stack) |
+| [1072-next-greater-node-in-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -117,6 +119,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0328-odd-even-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1072-next-greater-node-in-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
@@ -134,6 +137,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0042-trapping-rain-water) |
+| [1072-next-greater-node-in-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
 |  |
