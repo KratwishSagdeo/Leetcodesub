@@ -150,6 +150,7 @@
 | [0002-add-two-numbers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0371-sum-of-two-integers) |
 | [2050-count-good-numbers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2050-count-good-numbers) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2050-count-good-numbers) |
 ## Tree
