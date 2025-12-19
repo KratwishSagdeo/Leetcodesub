@@ -1,16 +1,19 @@
 class Solution {
     public int reverse(int x) {
-        int res = 0;
-        boolean isNegative = x < 0;
-        String strX = String.valueOf(Math.abs(x));
-        StringBuilder sb = new StringBuilder(strX).reverse();
-        
-        try {
-            res = Integer.parseInt(sb.toString());
-        } catch (NumberFormatException e) {
-            return 0;
+        int ans = 0;
+        int rem = 0;
+        while( x != 0){
+            rem = x%10;
+            if (ans > Integer.MAX_VALUE / 10 || ans < Integer.MIN_VALUE / 10) {
+    return 0;
+}
+
+            ans = (ans * 10) + rem;
+            x = x/10;
         }
-        
-        return isNegative ? -res : res;       
+        if(x<0){
+            return (-1 * ans);
+        }
+        return ans;
     }
 }
