@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0392-is-subsequence) |
@@ -260,4 +262,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0226-invert-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
