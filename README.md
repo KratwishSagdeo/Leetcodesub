@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0042-trapping-rain-water) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -182,6 +184,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0088-merge-sorted-array) |
