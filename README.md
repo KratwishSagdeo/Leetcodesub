@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0334-increasing-triplet-subsequence) |
@@ -108,6 +109,7 @@
 | [0141-linked-list-cycle](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
@@ -184,6 +186,7 @@
 | [0075-sort-colors](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [2756-buy-two-chocolates](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2756-buy-two-chocolates) |
@@ -210,6 +213,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0229-majority-element-ii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
