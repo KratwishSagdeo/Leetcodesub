@@ -69,6 +69,7 @@
 | [0125-valid-palindrome](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0796-rotate-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -162,6 +163,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0796-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Math
 |  |
