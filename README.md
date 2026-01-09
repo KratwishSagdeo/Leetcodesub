@@ -133,6 +133,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0092-reverse-linked-list-ii) |
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2050-count-good-numbers) |
