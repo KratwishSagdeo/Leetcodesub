@@ -39,6 +39,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1695-maximum-erasure-value](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1695-maximum-erasure-value) |
 | [1929-concatenation-of-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1929-concatenation-of-array) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2478-longest-nice-subarray) |
@@ -132,6 +133,7 @@
 | [1695-maximum-erasure-value](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2308-divide-array-into-equal-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -251,6 +253,7 @@
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1046-max-consecutive-ones-iii) |
 | [1695-maximum-erasure-value](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1695-maximum-erasure-value) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2478-longest-nice-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3483-alternating-groups-ii) |
