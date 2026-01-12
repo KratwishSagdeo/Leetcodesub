@@ -80,6 +80,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2405-optimal-partition-of-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2405-optimal-partition-of-string) |
 | [3396-valid-word](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3447-clear-digits) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -112,6 +113,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0890-lemonade-change) |
+| [2405-optimal-partition-of-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2405-optimal-partition-of-string) |
 | [2756-buy-two-chocolates](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
@@ -135,6 +137,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2308-divide-array-into-equal-pairs) |
+| [2405-optimal-partition-of-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2405-optimal-partition-of-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Linked List
