@@ -46,6 +46,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2690-house-robber-iv) |
 | [2756-buy-two-chocolates](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2756-buy-two-chocolates) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3483-alternating-groups-ii) |
@@ -138,6 +139,7 @@
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2308-divide-array-into-equal-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2405-optimal-partition-of-string) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Linked List
@@ -258,6 +260,7 @@
 | [1695-maximum-erasure-value](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1695-maximum-erasure-value) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2478-longest-nice-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2478-longest-nice-subarray) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3483-alternating-groups-ii) |
 ## Queue
