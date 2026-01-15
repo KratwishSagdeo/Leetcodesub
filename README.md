@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0238-product-of-array-except-self) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -234,6 +236,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0560-subarray-sum-equals-k) |
@@ -254,6 +257,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0940-fruit-into-baskets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1046-max-consecutive-ones-iii) |
