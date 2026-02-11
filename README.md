@@ -202,6 +202,7 @@
 | [0007-reverse-integer](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
@@ -237,6 +238,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0371-sum-of-two-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -301,6 +303,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
