@@ -27,6 +27,7 @@
 | [0238-product-of-array-except-self](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0334-increasing-triplet-subsequence) |
+| [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0560-subarray-sum-equals-k) |
@@ -126,6 +127,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0334-increasing-triplet-subsequence) |
+| [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0890-lemonade-change) |
 | [2405-optimal-partition-of-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2405-optimal-partition-of-string) |
@@ -189,6 +191,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0905-sort-array-by-parity) |
 ## Monotonic Stack
 |  |
@@ -239,6 +242,7 @@
 | [0242-valid-anagram](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0905-sort-array-by-parity) |
 | [2756-buy-two-chocolates](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2756-buy-two-chocolates) |
 ## Bit Manipulation
