@@ -82,6 +82,7 @@
 | [0020-valid-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0344-reverse-string) |
@@ -117,6 +118,7 @@
 | [0053-maximum-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0392-is-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -360,5 +362,6 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0077-combinations) |
+| [0131-palindrome-partitioning](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
