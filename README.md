@@ -85,6 +85,7 @@
 | [0131-palindrome-partitioning](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0451-sort-characters-by-frequency) |
@@ -215,6 +216,7 @@
 | [0050-powx-n](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0282-expression-add-operators) |
 | [0371-sum-of-two-integers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
 | [2050-count-good-numbers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2050-count-good-numbers) |
@@ -364,4 +366,5 @@
 | [0077-combinations](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
