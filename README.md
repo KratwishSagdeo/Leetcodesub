@@ -80,6 +80,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0131-palindrome-partitioning) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0075-sort-colors) |
@@ -205,6 +207,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0796-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Math
