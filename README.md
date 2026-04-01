@@ -181,6 +181,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0876-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1072-next-greater-node-in-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
@@ -203,6 +204,7 @@
 | [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0905-sort-array-by-parity) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
