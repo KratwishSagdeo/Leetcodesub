@@ -235,6 +235,7 @@
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0282-expression-add-operators) |
 | [0371-sum-of-two-integers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0371-sum-of-two-integers) |
+| [0390-elimination-game](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0390-elimination-game) |
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
 | [2050-count-good-numbers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2050-count-good-numbers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2238-a-number-after-a-double-reversal) |
@@ -338,6 +339,7 @@
 | [0203-remove-linked-list-elements](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0231-power-of-two) |
+| [0390-elimination-game](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0390-elimination-game) |
 | [2050-count-good-numbers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
