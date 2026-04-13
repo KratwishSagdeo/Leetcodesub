@@ -49,6 +49,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1695-maximum-erasure-value](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1695-maximum-erasure-value) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1929-concatenation-of-array) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2292-counting-words-with-a-given-prefix) |
