@@ -30,6 +30,7 @@
 | [0229-majority-element-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0485-max-consecutive-ones) |
@@ -72,6 +73,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0287-find-the-duplicate-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -216,6 +218,7 @@
 | [0143-reorder-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
@@ -284,6 +287,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0371-sum-of-two-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2308-divide-array-into-equal-pairs) |
