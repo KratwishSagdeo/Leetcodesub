@@ -427,3 +427,9 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
+
+## DSA Solutions
+
+| Problem | Platform | Language | Link |
+|---|---|---|---|
+| Longest Increasing Subsequence | gfg | java | [link](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) |
