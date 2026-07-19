@@ -433,3 +433,4 @@
 | Problem | Platform | Language | Link |
 |---|---|---|---|
 | Longest Increasing Subsequence | gfg | java | [link](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) |
+| Next Permutation | gfg | java | [link](https://www.geeksforgeeks.org/problems/next-permutation5226/1) |
