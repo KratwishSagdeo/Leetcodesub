@@ -440,3 +440,4 @@
 | Raise to Power of Its Own Reverse | gfg | java | [link](https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) |
 | Subsets | gfg | java | [link](https://www.geeksforgeeks.org/problems/subsets-1613027340/1) |
 | Distinct Subsets | gfg | java | [link](https://www.geeksforgeeks.org/problems/subset-sum-ii/1) |
+| Rotate Array | gfg | java | [link](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) |
