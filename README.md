@@ -437,3 +437,4 @@
 | Minimum Jumps | gfg | java | [link](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1) |
 | Minimize the Heights II | gfg | java | [link](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1) |
 | Palindrome String | gfg | java | [link](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) |
+| Raise to Power of Its Own Reverse | gfg | java | [link](https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) |
