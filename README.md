@@ -443,3 +443,4 @@
 | Rotate Array | gfg | java | [link](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) |
 | Minimum Platforms | gfg | java | [link](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) |
 | Stickler Thief | gfg | java | [link](https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1#expected-approach-2-spaceoptimized-dp-on-time-and-o1-space) |
+| CSES | misc | java | [link](https://cses.fi/problemset/result/18063867/) |
