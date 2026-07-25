@@ -448,3 +448,4 @@
 | CSES | misc | java | [link](https://cses.fi/problemset/result/18063867/) |
 | Two Sum | leetcode | java | [link](https://leetcode.com/problems/two-sum/submissions/2079888151/) |
 | Kadane's Algorithm | gfg | java | [link](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) |
+| Indexes of Subarray Sum | gfg | java | [link](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) |
