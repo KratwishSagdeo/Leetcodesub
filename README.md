@@ -451,3 +451,4 @@
 | Indexes of Subarray Sum | gfg | java | [link](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) |
 | Indexes of Subarray Sum | gfg | java | [link](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) |
 | Merge Without Extra Space | gfg | java | [link](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1#better-approach-1-using-nth-smallest-in-the-two-sorted-on-logn-m-logm-time-and-o1-space) |
+| Infosys SP and DSE Coding Questions | misc | java | [link](https://prepinsta.com/infosys-sp-and-dse/coding-questions/) |
