@@ -454,3 +454,4 @@
 | Infosys SP and DSE Coding Questions | misc | java | [link](https://prepinsta.com/infosys-sp-and-dse/coding-questions/) |
 | Factorial | gfg | java | [link](https://www.geeksforgeeks.org/problems/factorial5739/1) |
 | Largest in Array | gfg | java | [link](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) |
+| CSES | misc | java | [link](https://cses.fi/problemset/result/18150336/) |
