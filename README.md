@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0053-maximum-subarray) |
@@ -418,6 +419,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0131-palindrome-partitioning) |
