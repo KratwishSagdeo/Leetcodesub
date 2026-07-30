@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0134-gas-station) |
@@ -295,6 +296,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0287-find-the-duplicate-number) |
@@ -417,6 +419,7 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0282-expression-add-operators) |
