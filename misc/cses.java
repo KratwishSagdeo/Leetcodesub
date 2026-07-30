@@ -1,31 +1,54 @@
 // Problem: CSES
-// Link: https://cses.fi/problemset/result/18063867/
+// Link: https://cses.fi/problemset/result/18150336/
 
 import java.io.*;
+import java.util.*;
 
-class dice {
-    static final int MOD = 1000000007;
-
+class smaller {
     public static void main(String args[]) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int n = Integer.parseInt(br.readLine());
 
-        long[] dp = new long[n + 1];
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
-        dp[0] = 1;
+        int arr[] = new int[n];
 
-        for (int i = 1; i <= n; i++) {
+        for (int i = 0; i < n; i++) {
+            arr[i] = Integer.parseInt(st.nextToken());
+        }
 
-            for (int dice = 1; dice <= 6; dice++) {
+        int fin[] = new int[n];
 
-                if (i - dice >= 0) {
-                    dp[i] = (dp[i] + dp[i - dice]) % MOD;
+        fin[0] = 0;
+
+        int index = 1;
+        int left = index - 1;
+
+        while (index < n) {
+
+            if (left < 0) {
+                fin[index] = 0;
+                index++;
+
+                if (index < n)
+                    left = index - 1;
+            } else {
+
+                if (arr[left] < arr[index]) {
+                    fin[index] = left + 1;   // 1-based position
+                    index++;
+
+                    if (index < n)
+                        left = index - 1;
+                } else {
+                    left--;
                 }
             }
         }
 
-        System.out.println(dp[n]);
+        for (int x : fin)
+            System.out.print(x + " ");
     }
 }
