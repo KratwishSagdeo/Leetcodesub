@@ -463,3 +463,4 @@
 | Subsets II | leetcode | java | [link](https://leetcode.com/problems/subsets-ii/editorial/) |
 | Combination Sum II | leetcode | java | [link](https://leetcode.com/problems/combination-sum-ii/) |
 | Move All Zeroes to End | gfg | java | [link](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) |
+| Two Sum | gfg | java | [link](https://www.geeksforgeeks.org/problems/key-pair5616/1) |
