@@ -433,6 +433,10 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
 
 ## DSA Solutions
