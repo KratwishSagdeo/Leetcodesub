@@ -471,3 +471,4 @@
 | Two Sum | gfg | java | [link](https://www.geeksforgeeks.org/problems/key-pair5616/1) |
 | CSES | misc | java | [link](https://cses.fi/problemset/result/18204661/) |
 | Recyclable and Low Fat Products | leetcode | typescript | [link](https://leetcode.com/problems/recyclable-and-low-fat-products/) |
+| Find Customer Referee | leetcode | typescript | [link](https://leetcode.com/problems/find-customer-referee/submissions/2101298518/) |
