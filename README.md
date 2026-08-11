@@ -44,6 +44,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0605-can-place-flowers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0890-lemonade-change) |
@@ -145,6 +146,7 @@
 | [0337-house-robber-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0392-is-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
