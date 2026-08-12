@@ -143,6 +143,7 @@
 | [0152-maximum-product-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0279-perfect-squares) |
 | [0337-house-robber-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0392-is-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -260,6 +261,7 @@
 | [0189-rotate-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0282-expression-add-operators) |
 | [0371-sum-of-two-integers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0390-elimination-game) |
@@ -390,6 +392,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -442,6 +445,14 @@
 | [0620-not-boring-movies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0620-not-boring-movies) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1757-recyclable-and-low-fat-products) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
 
 ## DSA Solutions
