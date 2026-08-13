@@ -489,3 +489,4 @@
 | Recyclable and Low Fat Products | leetcode | typescript | [link](https://leetcode.com/problems/recyclable-and-low-fat-products/) |
 | Find Customer Referee | leetcode | typescript | [link](https://leetcode.com/problems/find-customer-referee/submissions/2101298518/) |
 | Big Countries | leetcode | typescript | [link](https://leetcode.com/problems/big-countries/?envType=study-plan-v2&envId=top-sql-50) |
+| Article Views I | leetcode | typescript | [link](https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-sql-50) |
