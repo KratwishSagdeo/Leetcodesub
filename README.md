@@ -491,3 +491,4 @@
 | Find Customer Referee | leetcode | typescript | [link](https://leetcode.com/problems/find-customer-referee/submissions/2101298518/) |
 | Big Countries | leetcode | typescript | [link](https://leetcode.com/problems/big-countries/?envType=study-plan-v2&envId=top-sql-50) |
 | Article Views I | leetcode | typescript | [link](https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-sql-50) |
+| Invalid Tweets | leetcode | typescript | [link](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50) |
