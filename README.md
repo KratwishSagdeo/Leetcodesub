@@ -500,3 +500,4 @@
 | Invalid Tweets | leetcode | typescript | [link](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50) |
 | Replace Employee ID With The Unique Identifier | leetcode | typescript | [link](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/submissions/2105891176/?envType=study-plan-v2&envId=top-sql-50) |
 | Product Sales Analysis I | leetcode | typescript | [link](https://leetcode.com/problems/product-sales-analysis-i/?envType=study-plan-v2&envId=top-sql-50) |
+| Subset Sum Problem | gfg | java | [link](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) |
