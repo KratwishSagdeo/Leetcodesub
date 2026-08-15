@@ -509,3 +509,4 @@
 | Product Sales Analysis I | leetcode | typescript | [link](https://leetcode.com/problems/product-sales-analysis-i/?envType=study-plan-v2&envId=top-sql-50) |
 | Subset Sum Problem | gfg | java | [link](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) |
 | Partition Equal Subset Sum | leetcode | java | [link](https://leetcode.com/problems/partition-equal-subset-sum/) |
+| Partition Equal Subset Sum | gfg | java | [link](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1) |
