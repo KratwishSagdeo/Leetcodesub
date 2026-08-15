@@ -37,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0334-increasing-triplet-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0485-max-consecutive-ones) |
@@ -146,6 +147,7 @@
 | [0279-perfect-squares](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0279-perfect-squares) |
 | [0337-house-robber-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0416-partition-equal-subset-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
@@ -457,10 +459,15 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0279-perfect-squares) |
+| [0416-partition-equal-subset-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0279-perfect-squares) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
 
 ## DSA Solutions
