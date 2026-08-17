@@ -513,3 +513,4 @@
 | Partition Equal Subset Sum | leetcode | java | [link](https://leetcode.com/problems/partition-equal-subset-sum/) |
 | Partition Equal Subset Sum | gfg | java | [link](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1) |
 | Project Employees I | leetcode | typescript | [link](https://leetcode.com/problems/project-employees-i/?envType=study-plan-v2&envId=top-sql-50) |
+| Count Subsets with Sum | gfg | java | [link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) |
