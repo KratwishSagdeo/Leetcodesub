@@ -41,6 +41,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0605-can-place-flowers) |
@@ -148,6 +149,7 @@
 | [0337-house-robber-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
@@ -432,6 +434,7 @@
 | [0131-palindrome-partitioning](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -462,6 +465,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -470,6 +474,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
 
 ## DSA Solutions
