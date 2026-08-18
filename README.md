@@ -520,3 +520,4 @@
 | Project Employees I | leetcode | typescript | [link](https://leetcode.com/problems/project-employees-i/?envType=study-plan-v2&envId=top-sql-50) |
 | Count Subsets with Sum | gfg | java | [link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) |
 | Target Sum | gfg | java | [link](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1) |
+| Target Sum | leetcode | java | [link](https://leetcode.com/problems/target-sum/submissions/2111710006/) |
