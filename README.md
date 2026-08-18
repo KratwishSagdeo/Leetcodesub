@@ -514,3 +514,4 @@
 | Partition Equal Subset Sum | gfg | java | [link](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1) |
 | Project Employees I | leetcode | typescript | [link](https://leetcode.com/problems/project-employees-i/?envType=study-plan-v2&envId=top-sql-50) |
 | Count Subsets with Sum | gfg | java | [link](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) |
+| Target Sum | gfg | java | [link](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1) |
