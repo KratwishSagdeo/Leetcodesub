@@ -523,3 +523,4 @@
 | Target Sum | gfg | java | [link](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1) |
 | Target Sum | leetcode | java | [link](https://leetcode.com/problems/target-sum/submissions/2111710006/) |
 | Queries Quality and Percentage | leetcode | typescript | [link](https://leetcode.com/problems/queries-quality-and-percentage/?envType=study-plan-v2&envId=top-sql-50) |
+| Knapsack with Duplicate Items | gfg | java | [link](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) |
