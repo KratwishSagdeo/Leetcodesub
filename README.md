@@ -529,3 +529,4 @@
 | 0 | gfg | java | [link](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) |
 | Rod Cutting | gfg | java | [link](https://www.geeksforgeeks.org/problems/rod-cutting0840/1) |
 | Monthly Transactions I | leetcode | typescript | [link](https://leetcode.com/problems/monthly-transactions-i/?envType=study-plan-v2&envId=top-sql-50) |
+| Immediate Food Delivery II | leetcode | typescript | [link](https://leetcode.com/problems/immediate-food-delivery-ii/submissions/2116551200/?envType=study-plan-v2&envId=top-sql-50) |
