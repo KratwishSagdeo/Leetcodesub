@@ -531,3 +531,4 @@
 | Monthly Transactions I | leetcode | typescript | [link](https://leetcode.com/problems/monthly-transactions-i/?envType=study-plan-v2&envId=top-sql-50) |
 | Immediate Food Delivery II | leetcode | typescript | [link](https://leetcode.com/problems/immediate-food-delivery-ii/submissions/2116551200/?envType=study-plan-v2&envId=top-sql-50) |
 | Chef and Coins Game | misc | java | [link](http://codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/CHCOINSG) |
+| Make Array Odd Practice Problem in 1400 to 1600 difficulty problems | codechef | cpp | [link](https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/MAKEARRAYODD) |
