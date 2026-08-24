@@ -540,3 +540,4 @@
 | Make Array Odd Practice Problem in 1400 to 1600 difficulty problems | codechef | cpp | [link](https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/MAKEARRAYODD) |
 | Longest Common Subsequence | leetcode | java | [link](https://leetcode.com/problems/longest-common-subsequence/submissions/2118817704/) |
 | Longest Common Subsequence | gfg | java | [link](https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) |
+| Longest Common Subsequence | misc | java | [link](https://neetcode.io/problems/longest-common-subsequence/history?submissionIndex=0) |
