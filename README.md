@@ -108,6 +108,7 @@
 | [0392-is-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0796-rotate-string) |
+| [1092-shortest-common-supersequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1143-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -153,6 +154,7 @@
 | [0494-target-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0746-min-cost-climbing-stairs) |
+| [1092-shortest-common-supersequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -483,6 +485,7 @@
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
 
