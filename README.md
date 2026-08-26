@@ -542,3 +542,4 @@
 | Longest Common Subsequence | gfg | java | [link](https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) |
 | Longest Common Subsequence | misc | java | [link](https://neetcode.io/problems/longest-common-subsequence/history?submissionIndex=0) |
 | Longest Common Substring | gfg | java | [link](https://www.geeksforgeeks.org/problems/longest-common-substring1452/1) |
+| Shortest Common Supersequence | gfg | java | [link](https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/1) |
