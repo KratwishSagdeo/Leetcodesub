@@ -547,3 +547,4 @@
 | Longest Common Substring | gfg | java | [link](https://www.geeksforgeeks.org/problems/longest-common-substring1452/1) |
 | Shortest Common Supersequence | gfg | java | [link](https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/1) |
 | Shortest Common Supersequence | leetcode | java | [link](https://leetcode.com/problems/shortest-common-supersequence/submissions/2121077054/) |
+| Shortest Common Supersequence | leetcode | java | [link](https://leetcode.com/problems/shortest-common-supersequence/) |
