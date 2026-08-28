@@ -1,5 +1,5 @@
 // Problem: Shortest Common Supersequence
-// Link: https://leetcode.com/problems/shortest-common-supersequence/submissions/2121077054/
+// Link: https://leetcode.com/problems/shortest-common-supersequence/
 
 class Solution {
     public String shortestCommonSupersequence(String str1, String str2) {
