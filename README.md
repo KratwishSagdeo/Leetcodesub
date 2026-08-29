@@ -555,3 +555,4 @@
 | Shortest Common Supersequence | leetcode | java | [link](https://leetcode.com/problems/shortest-common-supersequence/) |
 | Delete Operation for Two Strings | leetcode | java | [link](https://leetcode.com/problems/delete-operation-for-two-strings/submissions/2123562754/) |
 | Transform using Minimum Insert and Delete | gfg | java | [link](https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1) |
+| Longest Palindromic Subsequence | leetcode | java | [link](https://leetcode.com/problems/longest-palindromic-subsequence/) |
