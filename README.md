@@ -560,3 +560,4 @@
 | Longest Palindromic Subsequence | leetcode | java | [link](https://leetcode.com/problems/longest-palindromic-subsequence/) |
 | Longest Palindromic Subsequence | gfg | java | [link](https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) |
 | Minimum Deletions for Palindrome | gfg | java | [link](https://www.geeksforgeeks.org/problems/minimum-deletitions1648/1) |
+| Minimum Insertion Steps to Make a String Palindrome | leetcode | java | [link](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) |
