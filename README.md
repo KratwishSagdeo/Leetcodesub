@@ -557,3 +557,4 @@
 | Transform using Minimum Insert and Delete | gfg | java | [link](https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1) |
 | Longest Palindromic Subsequence | leetcode | java | [link](https://leetcode.com/problems/longest-palindromic-subsequence/) |
 | Longest Palindromic Subsequence | gfg | java | [link](https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) |
+| Minimum Deletions for Palindrome | gfg | java | [link](https://www.geeksforgeeks.org/problems/minimum-deletitions1648/1) |
