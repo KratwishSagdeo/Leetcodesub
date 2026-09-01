@@ -563,3 +563,4 @@
 | Minimum Insertion Steps to Make a String Palindrome | leetcode | java | [link](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) |
 | Longest Repeating Subsequence | gfg | java | [link](https://www.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1) |
 | Minimum Insertions for Palindrome | gfg | java | [link](https://www.geeksforgeeks.org/problems/form-a-palindrome2544/1) |
+| Matrix Chain Multiplication | gfg | java | [link](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) |
