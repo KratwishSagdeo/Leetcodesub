@@ -564,3 +564,4 @@
 | Longest Repeating Subsequence | gfg | java | [link](https://www.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1) |
 | Minimum Insertions for Palindrome | gfg | java | [link](https://www.geeksforgeeks.org/problems/form-a-palindrome2544/1) |
 | Matrix Chain Multiplication | gfg | java | [link](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) |
+| Target Sum | leetcode | java | [link](https://leetcode.com/problems/target-sum/?envType=problem-list-v2&envId=50vif4uc) |
