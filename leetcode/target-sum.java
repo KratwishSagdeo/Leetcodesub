@@ -1,5 +1,5 @@
 // Problem: Target Sum
-// Link: https://leetcode.com/problems/target-sum/submissions/2111710006/
+// Link: https://leetcode.com/problems/target-sum/?envType=problem-list-v2&envId=50vif4uc
 
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
