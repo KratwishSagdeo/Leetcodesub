@@ -583,3 +583,4 @@
 | Target Sum | leetcode | java | [link](https://leetcode.com/problems/target-sum/?envType=problem-list-v2&envId=50vif4uc) |
 | Find First and Last Position of Element in Sorted Array | leetcode | java | [link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | Merge Two Sorted Lists | leetcode | java | [link](https://leetcode.com/problems/merge-two-sorted-lists/submissions/2147782584/) |
+| Find the Index of the First Occurrence in a String | leetcode | java | [link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/2147787383/) |
