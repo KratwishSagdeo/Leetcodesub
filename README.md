@@ -115,6 +115,7 @@
 | [1092-shortest-common-supersequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1405-longest-happy-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1405-longest-happy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -174,6 +175,7 @@
 | [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0890-lemonade-change) |
+| [1405-longest-happy-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1405-longest-happy-string) |
 | [2405-optimal-partition-of-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2405-optimal-partition-of-string) |
 | [2756-buy-two-chocolates](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2756-buy-two-chocolates) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -427,6 +429,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0451-sort-characters-by-frequency) |
+| [1405-longest-happy-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1405-longest-happy-string) |
 ## Bucket Sort
 |  |
 | ------- |
