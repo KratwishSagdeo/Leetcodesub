@@ -589,3 +589,4 @@
 | Find the Index of the First Occurrence in a String | leetcode | java | [link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/2147787383/) |
 | Group Anagrams | leetcode | java | [link](https://leetcode.com/problems/group-anagrams/submissions/2147799322/) |
 | Longest Happy String | leetcode | python | [link](https://leetcode.com/problems/longest-happy-string/) |
+| Trapping Rain Water | gfg | java | [link](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) |
