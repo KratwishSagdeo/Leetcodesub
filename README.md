@@ -601,3 +601,4 @@
 | Coin Change | leetcode | java | [link](https://leetcode.com/problems/coin-change/submissions/2150627009/) |
 | Coin Change (Count Ways) | gfg | java | [link](https://www.geeksforgeeks.org/problems/coin-change2448/1) |
 | Revising the Select Query I | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) |
+| Revising the Select Query II | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) |
