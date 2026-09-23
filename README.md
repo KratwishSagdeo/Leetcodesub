@@ -615,3 +615,4 @@
 | Higher Than 75 Marks | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) |
 | Employee Names | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) |
 | Employee Salaries | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) |
+| Type of Triangle | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) |
