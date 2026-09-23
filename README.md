@@ -610,3 +610,4 @@
 | Weather Observation Station 6 | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true) |
 | Weather Observation Station 8 | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true) |
 | Weather Observation Station 9 | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true) |
+| Weather Observation Station 11 | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true) |
