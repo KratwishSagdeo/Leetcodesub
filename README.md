@@ -614,3 +614,4 @@
 | Weather Observation Station 12 | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true) |
 | Higher Than 75 Marks | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) |
 | Employee Names | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) |
+| Employee Salaries | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) |
