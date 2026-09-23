@@ -606,3 +606,4 @@
 | Japanese Cities' Attributes | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true) |
 | Weather Observation Station 1 | hackerrank | c | [link](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) |
 | Weather Observation Station 3 | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true) |
+| Weather Observation Station 4 | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true) |
