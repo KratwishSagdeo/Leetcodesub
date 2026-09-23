@@ -590,3 +590,4 @@
 | Group Anagrams | leetcode | java | [link](https://leetcode.com/problems/group-anagrams/submissions/2147799322/) |
 | Longest Happy String | leetcode | python | [link](https://leetcode.com/problems/longest-happy-string/) |
 | Trapping Rain Water | gfg | java | [link](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) |
+| Arrange Anagrams Together | gfg | java | [link](https://www.geeksforgeeks.org/problems/print-anagrams-together/1) |
