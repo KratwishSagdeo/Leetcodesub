@@ -604,3 +604,4 @@
 | Revising the Select Query II | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) |
 | Select By ID | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) |
 | Japanese Cities' Attributes | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true) |
+| Weather Observation Station 1 | hackerrank | c | [link](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) |
