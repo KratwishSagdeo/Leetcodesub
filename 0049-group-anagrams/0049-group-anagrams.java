@@ -1,7 +1,8 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        Map <String,List> map = new HashMap<>(); 
-        for(String s : strs){ // strs me multiple string hai so s
+        Map<String,List> map = new HashMap<>();
+        char ch[] = new char[26];
+        for(String s:strs){
             int count[] = new int[26];
             for(char c:s.toCharArray()){
                 count[c-'a']++;
