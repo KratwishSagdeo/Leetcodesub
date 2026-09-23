@@ -1,19 +1,14 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        Map <Integer,Integer> map = new HashMap<>();
-
+        int curr = 0;//this variable stores the prefix sum for each element in array
+        int res = 0;//this variable stores the sum of number of (curr-k) in hashmap
+        Map<Integer,Integer> map = new HashMap<>();
         map.put(0,1);
-        int currSum = 0;
-        int count = 0;
-
-        for(int i = 0;i<nums.length;i++){
-            currSum = currSum + nums[i];
-
-            if(map.containsKey(currSum - k)){
-                count = count + map.get(currSum - k);
-            }
-            map.put(currSum, map.getOrDefault(currSum, 0) + 1);
-    }
-            return count;
+        for(int num : nums){
+            curr += num;
+            res += map.getOrDefault(curr-k,0);
+            map.put(curr,map.getOrDefault(curr,0)+1);
+        }
+        return res;
     }
 }
