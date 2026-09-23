@@ -603,3 +603,4 @@
 | Revising the Select Query I | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) |
 | Revising the Select Query II | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) |
 | Select By ID | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) |
+| Japanese Cities' Attributes | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true) |
