@@ -625,3 +625,4 @@
 | Revising Aggregations | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) |
 | Revising Aggregations | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true) |
 | Revising Aggregations | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true) |
+| Average Population | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true) |
