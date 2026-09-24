@@ -631,3 +631,4 @@
 | The Blunder | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true) |
 | Top Earners | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true) |
 | Weather Observation Station 2 | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true) |
+| Weather Observation Station 13 | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true) |
