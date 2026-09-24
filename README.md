@@ -617,3 +617,4 @@
 | Employee Salaries | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) |
 | Type of Triangle | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) |
 | Type of Triangle | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) |
+| Sort 0s, 1s and 2s | gfg | java | [link](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) |
