@@ -1,5 +1,5 @@
 // Problem: Revising Aggregations
-// Link: https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true
+// Link: https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true
 
-Select Sum(population) from city
-where District = 'California';
+Select avg(population) from city
+where district = 'California';
