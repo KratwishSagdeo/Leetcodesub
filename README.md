@@ -627,3 +627,4 @@
 | Revising Aggregations | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true) |
 | Average Population | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true) |
 | Japan Population | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true) |
+| Population Density Difference | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true) |
