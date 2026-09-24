@@ -620,3 +620,4 @@
 | Sort 0s, 1s and 2s | gfg | java | [link](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) |
 | Container With Most Water | leetcode | java | [link](https://leetcode.com/problems/container-with-most-water/) |
 | Container With Most Water | gfg | java | [link](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1) |
+| The PADS | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) |
