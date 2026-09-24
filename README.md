@@ -622,3 +622,4 @@
 | Container With Most Water | gfg | java | [link](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1) |
 | The PADS | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) |
 | Occupations | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) |
+| Revising Aggregations | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) |
