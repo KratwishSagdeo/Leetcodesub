@@ -1,5 +1,5 @@
 // Problem: Revising Aggregations
-// Link: https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true
+// Link: https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true
 
-select count(name) from city
-where population>100000;
+Select Sum(population) from city
+where District = 'California';
