@@ -623,3 +623,4 @@
 | The PADS | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) |
 | Occupations | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) |
 | Revising Aggregations | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) |
+| Revising Aggregations | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true) |
