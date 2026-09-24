@@ -630,3 +630,4 @@
 | Population Density Difference | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true) |
 | The Blunder | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true) |
 | Top Earners | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true) |
+| Weather Observation Station 2 | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true) |
