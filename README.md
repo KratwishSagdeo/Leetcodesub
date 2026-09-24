@@ -621,3 +621,4 @@
 | Container With Most Water | leetcode | java | [link](https://leetcode.com/problems/container-with-most-water/) |
 | Container With Most Water | gfg | java | [link](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1) |
 | The PADS | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) |
+| Occupations | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) |
