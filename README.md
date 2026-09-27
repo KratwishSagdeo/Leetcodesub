@@ -646,3 +646,4 @@
 | African Cities | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true) |
 | Average Population of Each Continent | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true) |
 | The Report | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true) |
+| Top Competitors | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true) |
