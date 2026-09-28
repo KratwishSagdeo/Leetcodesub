@@ -39,6 +39,7 @@
 | [0287-find-the-duplicate-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
@@ -87,6 +88,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0349-intersection-of-two-arrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -198,6 +200,7 @@
 | [0229-majority-element-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
@@ -256,6 +259,7 @@
 | [0283-move-zeroes](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -317,6 +321,7 @@
 | [0229-majority-element-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
