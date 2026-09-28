@@ -648,3 +648,4 @@
 | The Report | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true) |
 | Top Competitors | hackerrank | typescript | [link](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true) |
 | Second Largest | gfg | java | [link](https://www.geeksforgeeks.org/problems/second-largest3735/1) |
+| Missing in Array | gfg | java | [link](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) |
