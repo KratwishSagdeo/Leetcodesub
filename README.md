@@ -112,6 +112,7 @@
 | [0242-valid-anagram](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0516-longest-palindromic-subsequence) |
@@ -202,6 +203,7 @@
 | [0242-valid-anagram](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
@@ -358,6 +360,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -383,6 +386,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0387-first-unique-character-in-a-string) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
