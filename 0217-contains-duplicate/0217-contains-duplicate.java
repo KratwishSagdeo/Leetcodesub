@@ -1,10 +1,12 @@
-import java.util.Arrays;
-
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Arrays.sort(nums);
-        for (int i = 0; i < nums.length - 1; i++) {
-            if (nums[i] == nums[i + 1]) {
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for(int num:nums){
+            map.put(num,map.getOrDefault(num,0)+1);
+        }
+        for(Map.Entry<Integer,Integer> entry : map.entrySet()){
+            int value = entry.getValue();
+            if(value>1){
                 return true;
             }
         }
