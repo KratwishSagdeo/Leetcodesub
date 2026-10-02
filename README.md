@@ -666,3 +666,4 @@
 | Running Sum of 1d Array | leetcode | java | [link](https://leetcode.com/problems/running-sum-of-1d-array/) |
 | Product of Array Except Self | leetcode | java | [link](https://leetcode.com/problems/product-of-array-except-self/submissions/2156217108/) |
 | Is Subsequence | leetcode | java | [link](https://leetcode.com/problems/is-subsequence/description/) |
+| Sales by Match | hackerrank | java | [link](https://www.hackerrank.com/challenges/sock-merchant/problem) |
