@@ -669,3 +669,4 @@
 | Sales by Match | hackerrank | java | [link](https://www.hackerrank.com/challenges/sock-merchant/problem) |
 | Counting Valleys | hackerrank | java | [link](https://www.hackerrank.com/challenges/counting-valleys/problem) |
 | Jumping on the Clouds | hackerrank | java | [link](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) |
+| Repeated String | hackerrank | java | [link](https://www.hackerrank.com/challenges/repeated-string/problem) |
