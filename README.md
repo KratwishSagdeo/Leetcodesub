@@ -671,3 +671,4 @@
 | Jumping on the Clouds | hackerrank | java | [link](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) |
 | Repeated String | hackerrank | java | [link](https://www.hackerrank.com/challenges/repeated-string/problem) |
 | Equalize the Array | hackerrank | java | [link](https://www.hackerrank.com/challenges/equality-in-a-array/problem) |
+| Two Strings | hackerrank | java | [link](https://www.hackerrank.com/challenges/two-strings/problem) |
