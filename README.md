@@ -673,3 +673,4 @@
 | Equalize the Array | hackerrank | java | [link](https://www.hackerrank.com/challenges/equality-in-a-array/problem) |
 | Two Strings | hackerrank | java | [link](https://www.hackerrank.com/challenges/two-strings/problem) |
 | String Construction | hackerrank | java | [link](https://www.hackerrank.com/challenges/string-construction/problem) |
+| Sherlock and the Valid String | hackerrank | java | [link](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) |
