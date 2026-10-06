@@ -677,3 +677,4 @@
 | Subarray Division | hackerrank | java | [link](https://www.hackerrank.com/challenges/the-birthday-bar/problem) |
 | Divisible Sum Pairs | hackerrank | java | [link](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) |
 | Migratory Birds | hackerrank | java | [link](https://www.hackerrank.com/challenges/migratory-birds/problem) |
+| Picking Numbers | hackerrank | java | [link](https://www.hackerrank.com/challenges/picking-numbers/problem) |
