@@ -675,3 +675,4 @@
 | String Construction | hackerrank | java | [link](https://www.hackerrank.com/challenges/string-construction/problem) |
 | Sherlock and the Valid String | hackerrank | java | [link](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) |
 | Subarray Division | hackerrank | java | [link](https://www.hackerrank.com/challenges/the-birthday-bar/problem) |
+| Divisible Sum Pairs | hackerrank | java | [link](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) |
