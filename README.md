@@ -678,3 +678,4 @@
 | Divisible Sum Pairs | hackerrank | java | [link](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) |
 | Migratory Birds | hackerrank | java | [link](https://www.hackerrank.com/challenges/migratory-birds/problem) |
 | Picking Numbers | hackerrank | java | [link](https://www.hackerrank.com/challenges/picking-numbers/problem) |
+| Sparse Arrays | hackerrank | java | [link](https://www.hackerrank.com/challenges/sparse-arrays/problem) |
