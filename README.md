@@ -680,3 +680,4 @@
 | Picking Numbers | hackerrank | java | [link](https://www.hackerrank.com/challenges/picking-numbers/problem) |
 | Sparse Arrays | hackerrank | java | [link](https://www.hackerrank.com/challenges/sparse-arrays/problem) |
 | Missing Numbers | hackerrank | java | [link](https://www.hackerrank.com/challenges/missing-numbers/problem) |
+| Pangrams | hackerrank | java | [link](https://www.hackerrank.com/challenges/pangrams/problem) |
