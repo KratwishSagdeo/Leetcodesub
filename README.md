@@ -688,3 +688,4 @@
 | Compare the Triplets | hackerrank | java | [link](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true) |
 | A Very Big Sum | hackerrank | java | [link](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true) |
 | Diagonal Difference | hackerrank | java | [link](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true) |
+| Grading Students | hackerrank | java | [link](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true) |
