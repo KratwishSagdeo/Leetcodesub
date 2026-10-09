@@ -686,3 +686,4 @@
 | Simple Array Sum | hackerrank | java | [link](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true) |
 | Plus Minus | hackerrank | java | [link](https://www.hackerrank.com/challenges/plus-minus/problem) |
 | Compare the Triplets | hackerrank | java | [link](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true) |
+| A Very Big Sum | hackerrank | java | [link](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true) |
