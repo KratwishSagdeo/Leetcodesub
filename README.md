@@ -685,3 +685,4 @@
 | Solve Me First | hackerrank | java | [link](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true) |
 | Simple Array Sum | hackerrank | java | [link](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true) |
 | Plus Minus | hackerrank | java | [link](https://www.hackerrank.com/challenges/plus-minus/problem) |
+| Compare the Triplets | hackerrank | java | [link](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true) |
