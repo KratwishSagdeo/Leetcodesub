@@ -690,3 +690,4 @@
 | Diagonal Difference | hackerrank | java | [link](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true) |
 | Grading Students | hackerrank | java | [link](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true) |
 | Apple and Orange | hackerrank | java | [link](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) |
+| Day of the Programmer | hackerrank | java | [link](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true) |
