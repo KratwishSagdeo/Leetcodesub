@@ -694,3 +694,4 @@
 | Bill Division | hackerrank | java | [link](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) |
 | Electronics Shop | hackerrank | java | [link](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true) |
 | Cats and a Mouse | hackerrank | java | [link](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) |
+| Utopian Tree | hackerrank | java | [link](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true) |
