@@ -692,3 +692,4 @@
 | Apple and Orange | hackerrank | java | [link](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) |
 | Day of the Programmer | hackerrank | java | [link](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true) |
 | Bill Division | hackerrank | java | [link](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) |
+| Electronics Shop | hackerrank | java | [link](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true) |
