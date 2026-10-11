@@ -696,3 +696,4 @@
 | Cats and a Mouse | hackerrank | java | [link](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) |
 | Utopian Tree | hackerrank | java | [link](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true) |
 | Angry Professor | hackerrank | java | [link](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) |
+| First Negative in Windows of Size K | gfg | java | [link](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) |
