@@ -700,3 +700,4 @@
 | First Negative in Windows of Size K | gfg | java | [link](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) |
 | Count Distinct Elements in Every Window | gfg | java | [link](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) |
 | Beautiful Days at the Movies | hackerrank | java | [link](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) |
+| Max Consecutive 1's with K Flips | gfg | java | [link](https://www.geeksforgeeks.org/problems/maximize-number-of-1s0905/1) |
