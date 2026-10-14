@@ -706,3 +706,4 @@
 | Max Consecutive 1's with K Flips | gfg | java | [link](https://www.geeksforgeeks.org/problems/maximize-number-of-1s0905/1) |
 | Strong Password | hackerrank | java | [link](https://www.hackerrank.com/challenges/strong-password/problem?isFullScreen=true) |
 | Two Characters | hackerrank | java | [link](https://www.hackerrank.com/challenges/two-characters/problem) |
+| Squares of a Sorted Array | leetcode | java | [link](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2171857153/) |
