@@ -702,3 +702,4 @@
 | Beautiful Days at the Movies | hackerrank | java | [link](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) |
 | Max Consecutive 1's with K Flips | gfg | java | [link](https://www.geeksforgeeks.org/problems/maximize-number-of-1s0905/1) |
 | Strong Password | hackerrank | java | [link](https://www.hackerrank.com/challenges/strong-password/problem?isFullScreen=true) |
+| Two Characters | hackerrank | java | [link](https://www.hackerrank.com/challenges/two-characters/problem) |
