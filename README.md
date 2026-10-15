@@ -708,3 +708,4 @@
 | Two Characters | hackerrank | java | [link](https://www.hackerrank.com/challenges/two-characters/problem) |
 | Squares of a Sorted Array | leetcode | java | [link](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2171857153/) |
 | Caesar Cipher | hackerrank | java | [link](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) |
+| HackerRank in a String! | hackerrank | java | [link](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) |
