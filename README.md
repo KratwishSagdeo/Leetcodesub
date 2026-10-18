@@ -48,6 +48,7 @@
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0792-binary-search) |
@@ -381,6 +382,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-fruit-into-baskets](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1004-max-consecutive-ones-iii) |
