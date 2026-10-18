@@ -721,3 +721,4 @@
 | HackerRank in a String! | hackerrank | java | [link](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) |
 | Big Sorting | hackerrank | java | [link](https://www.hackerrank.com/challenges/big-sorting/problem?isFullScreen=true) |
 | Boats to Save People | leetcode | java | [link](https://leetcode.com/problems/boats-to-save-people/) |
+| Maximum Average Subarray I | leetcode | java | [link](https://leetcode.com/problems/maximum-average-subarray-i/) |
