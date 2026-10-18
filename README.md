@@ -718,3 +718,4 @@
 | Caesar Cipher | hackerrank | java | [link](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) |
 | HackerRank in a String! | hackerrank | java | [link](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) |
 | Big Sorting | hackerrank | java | [link](https://www.hackerrank.com/challenges/big-sorting/problem?isFullScreen=true) |
+| Boats to Save People | leetcode | java | [link](https://leetcode.com/problems/boats-to-save-people/) |
