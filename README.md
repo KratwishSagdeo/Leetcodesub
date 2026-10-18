@@ -51,6 +51,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0792-binary-search) |
+| [0881-boats-to-save-people](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0890-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0905-sort-array-by-parity) |
@@ -184,6 +185,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0605-can-place-flowers) |
+| [0881-boats-to-save-people](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0890-lemonade-change) |
 | [1405-longest-happy-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1405-longest-happy-string) |
 | [2405-optimal-partition-of-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2405-optimal-partition-of-string) |
@@ -270,6 +272,7 @@
 | [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -332,6 +335,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0977-squares-of-a-sorted-array) |
 | [2756-buy-two-chocolates](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2756-buy-two-chocolates) |
@@ -537,6 +541,10 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
 
 ## DSA Solutions
