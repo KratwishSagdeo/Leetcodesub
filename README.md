@@ -79,6 +79,7 @@
 | [2799-count-complete-subarrays-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-alternating-groups-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3483-alternating-groups-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -99,6 +100,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2690-house-robber-iv) |
+| [3477-fruits-into-baskets-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3477-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -318,6 +320,7 @@
 | ------- |
 | [1929-concatenation-of-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1929-concatenation-of-array) |
 | [3447-clear-digits](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3447-clear-digits) |
+| [3477-fruits-into-baskets-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3477-fruits-into-baskets-ii) |
 | [3625-stone-removal-game](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3625-stone-removal-game) |
 ## Sorting
 |  |
@@ -547,6 +550,14 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0881-boats-to-save-people) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
 
 ## DSA Solutions
