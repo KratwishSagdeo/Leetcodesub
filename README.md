@@ -735,3 +735,4 @@
 | Maximum Average Subarray I | leetcode | java | [link](https://leetcode.com/problems/maximum-average-subarray-i/) |
 | Fruits Into Baskets II | leetcode | java | [link](https://leetcode.com/problems/fruits-into-baskets-ii/submissions/2176781122/) |
 | Almost Sorted | hackerrank | java | [link](https://www.hackerrank.com/challenges/almost-sorted/problem?isFullScreen=true) |
+| second largest | misc | java | [link]() |
