@@ -738,3 +738,4 @@
 | Fruits Into Baskets II | leetcode | java | [link](https://leetcode.com/problems/fruits-into-baskets-ii/submissions/2176781122/) |
 | Almost Sorted | hackerrank | java | [link](https://www.hackerrank.com/challenges/almost-sorted/problem?isFullScreen=true) |
 | second largest | misc | java | [link]() |
+| Find Pivot Index | leetcode | java | [link](https://leetcode.com/problems/find-pivot-index/?utm_source=chatgpt.com) |
