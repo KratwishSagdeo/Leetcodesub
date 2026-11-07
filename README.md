@@ -745,3 +745,4 @@
 | Almost Sorted | hackerrank | java | [link](https://www.hackerrank.com/challenges/almost-sorted/problem?isFullScreen=true) |
 | second largest | misc | java | [link]() |
 | Find Pivot Index | leetcode | java | [link](https://leetcode.com/problems/find-pivot-index/?utm_source=chatgpt.com) |
+| Subarray Sums Divisible by K | leetcode | java | [link](https://leetcode.com/problems/subarray-sums-divisible-by-k/?envType=problem-list-v2&envId=prefix-sum) |
