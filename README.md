@@ -78,6 +78,7 @@
 | [2690-house-robber-iv](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2690-house-robber-iv) |
 | [2756-buy-two-chocolates](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2756-buy-two-chocolates) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3028-ant-on-the-boundary](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3028-ant-on-the-boundary) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3477-fruits-into-baskets-ii) |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1929-concatenation-of-array) |
+| [3028-ant-on-the-boundary](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3028-ant-on-the-boundary) |
 | [3447-clear-digits](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3447-clear-digits) |
 | [3477-fruits-into-baskets-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3477-fruits-into-baskets-ii) |
 | [3625-stone-removal-game](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3625-stone-removal-game) |
@@ -370,6 +372,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1046-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1480-running-sum-of-1d-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [3028-ant-on-the-boundary](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3028-ant-on-the-boundary) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
