@@ -50,6 +50,7 @@
 | [0605-can-place-flowers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0724-find-pivot-index](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0792-binary-search) |
 | [0881-boats-to-save-people](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0881-boats-to-save-people) |
@@ -363,6 +364,7 @@
 | [0238-product-of-array-except-self](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1046-max-consecutive-ones-iii) |
