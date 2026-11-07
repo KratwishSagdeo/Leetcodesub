@@ -58,6 +58,7 @@
 | [0890-lemonade-change](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0890-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0905-sort-array-by-parity) |
 | [0940-fruit-into-baskets](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0940-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -219,6 +220,7 @@
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0940-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1695-maximum-erasure-value](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -367,6 +369,7 @@
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1046-max-consecutive-ones-iii) |
