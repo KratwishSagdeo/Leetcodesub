@@ -1,12 +1,19 @@
 class Solution {
-    public int missingNumber(int[] nums) {
-        int n = nums.length;
-        int total = (n*(n+1))/2;
-        int count = 0;
-        for(int i = 0;i<n;i++){
-            count = nums[i]+count;
+    public int missingNumber(int[] arr) {
+        int low = Integer.MAX_VALUE;
+        int high = Integer.MIN_VALUE;
+        int sum = 0;
+        for(int i = 0;i<arr.length;i++){
+            if(arr[i]<low){
+                low = arr[i];
+            }
+            if(arr[i]>high){
+                high = arr[i];
+            }
+            sum += arr[i];
         }
-        total = total-count;
-        return total;
+        int n = arr.length*(arr.length+1)/2;
+        int miss = n-sum;
+        return miss;
     }
 }
