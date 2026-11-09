@@ -58,6 +58,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0890-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0905-sort-array-by-parity) |
+| [0918-maximum-sum-circular-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-fruit-into-baskets](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0940-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0977-squares-of-a-sorted-array) |
@@ -180,6 +181,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0746-min-cost-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0918-maximum-sum-circular-subarray) |
 | [1092-shortest-common-supersequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -413,6 +415,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0918-maximum-sum-circular-subarray) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
@@ -468,6 +471,7 @@
 | [0053-maximum-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -574,6 +578,10 @@
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/3477-fruits-into-baskets-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
 
 ## DSA Solutions
