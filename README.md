@@ -768,3 +768,4 @@
 | Top K Frequent Elements | leetcode | java | [link](https://leetcode.com/problems/top-k-frequent-elements/submissions/2191787447/?utm_source=chatgpt.com) |
 | Maximum Product Subarray | leetcode | java | [link](https://leetcode.com/problems/maximum-product-subarray/?utm_source=chatgpt.com) |
 | Maximum Sum Circular Subarray | leetcode | java | [link](https://leetcode.com/problems/maximum-sum-circular-subarray/?utm_source=chatgpt.com) |
+| Maximum Absolute Sum of Any Subarray | leetcode | java | [link](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/?utm_source=chatgpt.com) |
