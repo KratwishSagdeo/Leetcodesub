@@ -756,3 +756,4 @@
 | Subarray Sums Divisible by K | leetcode | java | [link](https://leetcode.com/problems/subarray-sums-divisible-by-k/?envType=problem-list-v2&envId=prefix-sum) |
 | Missing Number | leetcode | java | [link](https://leetcode.com/problems/missing-number/) |
 | Top K Frequent Elements | leetcode | java | [link](https://leetcode.com/problems/top-k-frequent-elements/submissions/2191787447/?utm_source=chatgpt.com) |
+| Maximum Product Subarray | leetcode | java | [link](https://leetcode.com/problems/maximum-product-subarray/?utm_source=chatgpt.com) |
