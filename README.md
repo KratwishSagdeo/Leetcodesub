@@ -49,6 +49,7 @@
 | [0485-max-consecutive-ones](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0643-maximum-average-subarray-i) |
@@ -226,6 +227,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0940-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -378,6 +380,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0974-subarray-sums-divisible-by-k) |
