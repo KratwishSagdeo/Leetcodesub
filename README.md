@@ -781,3 +781,4 @@
 | Maximum Sum Circular Subarray | leetcode | java | [link](https://leetcode.com/problems/maximum-sum-circular-subarray/?utm_source=chatgpt.com) |
 | Maximum Absolute Sum of Any Subarray | leetcode | java | [link](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/?utm_source=chatgpt.com) |
 | Find the Middle Index in Array | leetcode | java | [link](https://leetcode.com/problems/find-the-middle-index-in-array/description/?utm_source=chatgpt.com) |
+| Number of Ways to Split Array | leetcode | java | [link](https://leetcode.com/problems/number-of-ways-to-split-array/) |
