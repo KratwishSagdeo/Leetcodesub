@@ -45,6 +45,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0494-target-sum) |
@@ -229,6 +230,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/0525-contiguous-array) |
