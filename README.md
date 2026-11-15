@@ -79,6 +79,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1991-find-the-middle-index-in-array) |
+| [2090-k-radius-subarray-averages](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2270-number-of-ways-to-split-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2270-number-of-ways-to-split-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -433,6 +434,7 @@
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1046-max-consecutive-ones-iii) |
 | [1695-maximum-erasure-value](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/1695-maximum-erasure-value) |
+| [2090-k-radius-subarray-averages](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2478-longest-nice-subarray](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2478-longest-nice-subarray) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/KratwishSagdeo/Leetcodesub/tree/master/2799-count-complete-subarrays-in-an-array) |
