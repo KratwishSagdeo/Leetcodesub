@@ -803,3 +803,4 @@
 | Valid Palindrome II | leetcode | java | [link](https://leetcode.com/problems/valid-palindrome-ii/submissions/2195479112/?utm_source=chatgpt.com) |
 | Longest Palindrome | leetcode | java | [link](https://leetcode.com/problems/longest-palindrome/?utm_source=chatgpt.com) |
 | String Compression | leetcode | java | [link](https://leetcode.com/problems/string-compression/submissions/2195687405/?utm_source=chatgpt.com) |
+| K Radius Subarray Averages | leetcode | java | [link](https://leetcode.com/problems/k-radius-subarray-averages/) |
